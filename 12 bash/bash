@@ -1,0 +1,1 @@
+zcat Data_SC.gz|awk -F'|' '{print $2}'|sort -n|sed -n '1p;$p'

@@ -1,0 +1,1 @@
+/home/richard/Documents/Uni/Master/Scientific\ Computing\ /Working_folder/11\ hello_world/hello_world/target/debug/hello_world: /home/richard/Documents/Uni/Master/Scientific\ Computing\ /Working_folder/11\ hello_world/hello_world/src/main.rs
